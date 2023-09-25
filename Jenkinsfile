@@ -1,3 +1,3 @@
-@Library('JENKINS-72067-memory-leak') myLibrary
+@Library('JENKINS-72067-memory-leak') _
 
-myLibrary.greet()
+greet()
